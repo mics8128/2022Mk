@@ -71,6 +71,11 @@ hash = "3c193cfd975971adc376927124f06701ab2b463454061fb2d2595866c659a82c"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "afc78e26f2386e77df2de6bec037c14eb74f063e3551f2ab71f10ff80bc5e986"
+metafile = true
+
+[[files]]
 file = "mods/rpmtw-update-mod.toml"
 hash = "05c9d0f2506878b6174b52d869e88691e66cbe1667d21025f2c00c5b62b2e0ee"
 metafile = true
