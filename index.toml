@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/betterf3.toml"
+hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "90006dd9c80584d9f41627e8b449124c27ca2c5b3f680e3751658f1986b94e62"
 metafile = true
