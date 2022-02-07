@@ -11,7 +11,7 @@ hash = "eedcfd5dfe5e622f2a77a92f6a115f7ce584e8cff80653ee0e68a9359f388f9e"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "eb37e0ff32e8060bbf08744e0ecb56a948e7ec943b58b9c0c6b3ad9a56edbc71"
+hash = "fece5fa9ab314667f274640099d814c9e85511c3a869b4fd49921878867075d3"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -329,6 +329,10 @@ metafile = true
 file = "mods/xaeros-world-map.toml"
 hash = "96c8320ebe996a9ea817165c47049d4c2efe31006b715a17342323c95e51eaec"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Better-Leaves-6.1-1.13+.zip"
+hash = "67e32a94a3ec388cb876c7e21c5b3de4c5df255193150611466b61516d6b8fb9"
 
 [[files]]
 file = "servers.dat"
