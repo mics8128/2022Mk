@@ -31,6 +31,16 @@ hash = "3a659dd8ea30b4e0e75b87f8697518f30084f57ba91e1bc359d8770d37a31f21"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.toml"
+hash = "d29c81118c71783f1a833ec2b5b5e2be98d1bfce3652026b24161cb27288e3be"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "8336f0e1553fb60080e1d0230a851711d268d72379e1377ebf040ae8faca3f7f"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "af33a101b5bee2ff06a9633de4fbc70e91eae4599d2590822297ed04f9b17db9"
 metafile = true
