@@ -76,6 +76,11 @@ hash = "de9f0a941156d95091b39b434fe31fe76cb612eeb0592618d325835d501a4c02"
 metafile = true
 
 [[files]]
+file = "mods/boring-default-game-rules.toml"
+hash = "2c679bfc369c8a2608790267235b296a52be06dc884d86eee2d8b8feac9eda31"
+metafile = true
+
+[[files]]
 file = "mods/carrier.toml"
 hash = "dd4c55b2ce4e782c14c111672514286d70e825266b2f0f09df48adfbb5ed536c"
 metafile = true
