@@ -34,7 +34,7 @@ hash = "a892b8be7844df0b31ca9d66122ab3894ecfa84799386ba94123d9e6d784e987"
 
 [[files]]
 file = "mods/amecs.toml"
-hash = "36ed3794ae16c0e90e712ee036c23bbfbb90e778bee1a557bd9662fae4e307e9"
+hash = "43dbe172e2ed74eafb8fb37048399c4dadfb8f4dd9efaa17bdb7be91fe758879"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-keys-fabric.toml"
-hash = "af4c398f7d4de864883a3a6a4d2258068ac4798935d6e572db602d11f8230876"
+hash = "3e26d9f9d011967cc113a038c1c75e4ce5e2672e866eda8ca183dcc4ecd0bf00"
 metafile = true
 
 [[files]]
