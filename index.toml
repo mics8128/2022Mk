@@ -211,6 +211,11 @@ hash = "3e3dada9877ac8ab9393f76cc65f3a4ea11e0cbcb5ac6151ccf83f2f0dc86030"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.toml"
+hash = "7c2395805eaa57769509cc087ed7e9a598df9a8cdc4811c14282b912263b948b"
+metafile = true
+
+[[files]]
 file = "mods/inv-view.toml"
 hash = "465889eb9f9152c2eef486f61ae51302cd9a2a877cbe30599ceb76689657b163"
 metafile = true
