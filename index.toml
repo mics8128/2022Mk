@@ -71,8 +71,18 @@ hash = "8ad587909546ca47c700e08089603745d63882b06c8f2e245a16afe92cfcb9b7"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.toml"
+hash = "a07101857125383aed77c30cb670d3c6c03911cec6954f5c016a41ac22228d24"
+metafile = true
+
+[[files]]
 file = "mods/cleancut.toml"
 hash = "16e04b16ad2973eccb5bb142a39cdfff4489b3096207e3777607d1464f877965"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.toml"
+hash = "721774a4e83aed0d9662ef40202c27319dd8aacd71cfd5bff26b052b62db3bb9"
 metafile = true
 
 [[files]]
@@ -86,6 +96,11 @@ hash = "bcf6015b39caa1d6be765147a511ee8a1b579fa0d6b039728044b3735207ba8d"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.toml"
+hash = "ea96f09c8cc2dfd3e39bdb137393a86f5bdf02bf198f51005e1077ecd5fdc91a"
+metafile = true
+
+[[files]]
 file = "mods/default-options-fabric.toml"
 hash = "79218c2f553d60955fe2b5a9dc4957de4a2d59e10a0fe0c4e6c0395505b4e752"
 metafile = true
@@ -93,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.toml"
 hash = "90006dd9c80584d9f41627e8b449124c27ca2c5b3f680e3751658f1986b94e62"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-sound-filters.toml"
+hash = "cfb5ad67f220dd21681af47ae904333cd1b3596801c3e57fc9ce3ea9d583c643"
 metafile = true
 
 [[files]]
@@ -233,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "948d49197c769a8516d1521d66fee25c4b519da82e500003846423f7190b15c4"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-fabric.toml"
+hash = "e2aeda2de32e8c0b33e92714af4af1d4fbaa73ba6db8456bee9c86926aef0d0f"
 metafile = true
 
 [[files]]
