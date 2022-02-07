@@ -31,11 +31,6 @@ hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
 preserve = true
 
 [[files]]
-file = "mods/amecs.toml"
-hash = "43dbe172e2ed74eafb8fb37048399c4dadfb8f4dd9efaa17bdb7be91fe758879"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.toml"
 hash = "ba1f962e329972d937452b1db563b5f1a8871ab5931604769ea4a8883a559a5a"
 metafile = true
@@ -123,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.toml"
 hash = "90006dd9c80584d9f41627e8b449124c27ca2c5b3f680e3751658f1986b94e62"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-sound-filters.toml"
-hash = "cfb5ad67f220dd21681af47ae904333cd1b3596801c3e57fc9ce3ea9d583c643"
 metafile = true
 
 [[files]]
