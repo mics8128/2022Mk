@@ -361,6 +361,11 @@ hash = "4bff6737922a7e793a56050a9ec935f656248096d59fadf75bbbaa02f0eb6f7c"
 metafile = true
 
 [[files]]
+file = "mods/wthit.toml"
+hash = "dac34129a01190d3a87015aa96f6ab65c175afe1a4e0224f02619a259de2d1ff"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair-play-edition.toml"
 hash = "517a15807d761059f9d48b1e1fb8b1e261bf42704deca818fa984051a17f9aed"
 metafile = true
