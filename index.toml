@@ -6,12 +6,16 @@ hash = "8cdf02d0a91f738e6be34d129367f9d83f6615a824a13e93c9470bc51fd2a077"
 preserve = true
 
 [[files]]
-file = "config/defaultsettings/Default/keys.txt"
-hash = "1225b2d8058e48075ba3d2dab63e4a832d3ccd571386c05abf45fca33d391304"
+file = "config/defaultoptions/keybindings.txt"
+hash = "eedcfd5dfe5e622f2a77a92f6a115f7ce584e8cff80653ee0e68a9359f388f9e"
 
 [[files]]
-file = "config/defaultsettings/Default/options.txt"
-hash = "06e3a6d12b0f2d466e7f67c6610c140b01fc8da24c3213ca572ce380a0076a09"
+file = "config/defaultoptions/options.txt"
+hash = "eb37e0ff32e8060bbf08744e0ecb56a948e7ec943b58b9c0c6b3ad9a56edbc71"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "64b35ba56f169834b332e6e1b0a76d87ecf56ead86f74641ddd47265884e86eb"
 
 [[files]]
 file = "config/dynview.json"
