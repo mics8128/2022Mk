@@ -201,21 +201,6 @@ hash = "16460cf6b9527d4ba6c2f66e7518f60fed71cabf5833dd8152f965930f5bd139"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-fabric.toml"
-hash = "896b5bd9861b6747c0eb6e00bb67131080b662239af1353ac93f5d32541631c1"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-fabric.toml"
-hash = "2adc0b0e32c458a6b937f3e7d19cb0ed4d7de2257b8e60b30bb6484684099f7f"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-fabric.toml"
-hash = "76bc027caabbcf1e5448ae0fae4fa885df5ebb7cbf49ea83775d32ce8b079f56"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.toml"
 hash = "d6a607a1f3d97bd19c932483aa4c78857ce528493185f5db4c61da7629e178cd"
 metafile = true
