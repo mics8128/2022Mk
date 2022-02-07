@@ -82,8 +82,8 @@ hash = "bcf6015b39caa1d6be765147a511ee8a1b579fa0d6b039728044b3735207ba8d"
 metafile = true
 
 [[files]]
-file = "mods/defaultsettings-fabric.toml"
-hash = "04accf08a328e6bffeec23a58d71e8814ac7f90e41dd0436e03a5652ca687350"
+file = "mods/default-options-fabric.toml"
+hash = "79218c2f553d60955fe2b5a9dc4957de4a2d59e10a0fe0c4e6c0395505b4e752"
 metafile = true
 
 [[files]]
