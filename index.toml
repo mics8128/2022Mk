@@ -175,3 +175,8 @@ metafile = true
 file = "mods/tooltipfix.toml"
 hash = "f72cbfcc9dd7079ae697512338158d3d98efd4b7ef2dfbcd9ee5f829d3efedb6"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair-play-edition.toml"
+hash = "517a15807d761059f9d48b1e1fb8b1e261bf42704deca818fa984051a17f9aed"
+metafile = true
