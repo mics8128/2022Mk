@@ -46,6 +46,11 @@ hash = "af33a101b5bee2ff06a9633de4fbc70e91eae4599d2590822297ed04f9b17db9"
 metafile = true
 
 [[files]]
+file = "mods/more-chat-history.toml"
+hash = "8fcec65c73d749d008328d724906089bedb7ec37b03daefe38006e69e2399b43"
+metafile = true
+
+[[files]]
 file = "mods/no-fade.toml"
 hash = "0501b76f4eb066d9ff58194504f9e40cc57a4bcfc0e0fcae4c04a57782d50a9d"
 metafile = true
@@ -61,6 +66,11 @@ hash = "05c9d0f2506878b6174b52d869e88691e66cbe1667d21025f2c00c5b62b2e0ee"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.toml"
+hash = "b6afdd01aff82e263d81b4f3a629a011baa6607b87582088bbdb16ca9cb2149c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "948d49197c769a8516d1521d66fee25c4b519da82e500003846423f7190b15c4"
 metafile = true
@@ -68,4 +78,14 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
+metafile = true
+
+[[files]]
+file = "mods/tiefix.toml"
+hash = "85abea40045ab3e338fb352fd2d875c23c66ff2bb615531f3fd8e5288cf062c3"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.toml"
+hash = "f72cbfcc9dd7079ae697512338158d3d98efd4b7ef2dfbcd9ee5f829d3efedb6"
 metafile = true
