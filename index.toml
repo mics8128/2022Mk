@@ -236,6 +236,11 @@ hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-fabric.toml"
+hash = "f003f1d03c288ca6f911d0cd86bbd72802b1b4ebd80d4ab18e273d85a88dc1b6"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.toml"
 hash = "3a659dd8ea30b4e0e75b87f8697518f30084f57ba91e1bc359d8770d37a31f21"
 metafile = true
@@ -328,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
 hash = "9a9deb9a7cb6967c338afe5fff048b8d090fe121573158c2bfb0afb1db85319c"
+metafile = true
+
+[[files]]
+file = "mods/rhino.toml"
+hash = "d0703d8adfb98633fa4e348d2fbe1d356f0bbeef99ae2295e7bad33e98579a92"
 metafile = true
 
 [[files]]
