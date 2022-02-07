@@ -37,11 +37,6 @@ hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
 metafile = true
 
 [[files]]
-file = "mods/bobby.toml"
-hash = "de9f0a941156d95091b39b434fe31fe76cb612eeb0592618d325835d501a4c02"
-metafile = true
-
-[[files]]
 file = "mods/cammies-combat-tweaks.toml"
 hash = "8ad587909546ca47c700e08089603745d63882b06c8f2e245a16afe92cfcb9b7"
 metafile = true
