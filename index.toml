@@ -68,6 +68,11 @@ hash = "8ad587909546ca47c700e08089603745d63882b06c8f2e245a16afe92cfcb9b7"
 metafile = true
 
 [[files]]
+file = "mods/cleancut.toml"
+hash = "16e04b16ad2973eccb5bb142a39cdfff4489b3096207e3777607d1464f877965"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "504fd0d00011961598b4bd34ac13d51b1fb159230638d13b1ce789bb702c59be"
 metafile = true
