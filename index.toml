@@ -51,6 +51,11 @@ hash = "ec21eab44ca0ec187ec45d14d97c584086ddf62a7d19888ce4609f708c02dea5"
 metafile = true
 
 [[files]]
+file = "mods/betteranimalsplus.toml"
+hash = "f852a29980c2680fa418d3eaa2bb4d7ffebcbb7d302f4a75f26a07f5dbfffdb2"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.toml"
 hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
 metafile = true
@@ -96,6 +101,16 @@ hash = "778852fa99cf4f365f15984220fee2897b1e34ae7a086414b33c37cb699d7268"
 metafile = true
 
 [[files]]
+file = "mods/creeper-ai-updated.toml"
+hash = "c82b9ad27aa7496db62408dfc1f3c0c7aa136357bd41ec18b0736118dc008b0f"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.toml"
+hash = "6312227e4a92ed127bf69f08d48b6abbdb5dbaa740d580730ac5b0ae26e57885"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.toml"
 hash = "ea96f09c8cc2dfd3e39bdb137393a86f5bdf02bf198f51005e1077ecd5fdc91a"
 metafile = true
@@ -128,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-block-entities.toml"
 hash = "c232ccf873db67e58c35803e9b79dbd6c4d5faea9e65c07d32a60e4c11cedc6d"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-fabric.toml"
+hash = "b72f1a1cb4c58133da7730d95f5c7d87595f8d9581821721f2338681eea88106"
 metafile = true
 
 [[files]]
@@ -273,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib-fabric.toml"
 hash = "e1f360fffa6a40762ec5ce48718a92d871a9d8840c482f9a62ea3e25fa652836"
+metafile = true
+
+[[files]]
+file = "mods/quartz-elevator.toml"
+hash = "60d2eb97247e0d89eb75600157a8e81e43765217a21676a86a70646ec1ae68ec"
 metafile = true
 
 [[files]]
