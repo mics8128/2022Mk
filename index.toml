@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "5d0dbd466d62e56f5960bf2bd0a31284d59db49891531c1b1a3599d757b4cc18"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "46bf012f7178c096a364f0a1e8db183a867329fb4e2f340132a0c6920d131e07"
-
-[[files]]
 file = "config/defaultoptions/servers.dat"
 hash = "64b35ba56f169834b332e6e1b0a76d87ecf56ead86f74641ddd47265884e86eb"
 
@@ -54,6 +46,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.toml"
 hash = "5302505ef9d021ba8e0991a903d614de44ffddb98ce4aa8a1260f65ce1149069"
+metafile = true
+
+[[files]]
+file = "mods/default-options-fabric.toml"
+hash = "79218c2f553d60955fe2b5a9dc4957de4a2d59e10a0fe0c4e6c0395505b4e752"
 metafile = true
 
 [[files]]
