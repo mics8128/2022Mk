@@ -186,6 +186,11 @@ hash = "465889eb9f9152c2eef486f61ae51302cd9a2a877cbe30599ceb76689657b163"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.toml"
+hash = "19b65cb4abe03a74d6a7a84145975520c1b7aa1b9b331cf48066084fe39835ac"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.toml"
 hash = "d66fe33e59831d85fcde0e7feee237c4c56981162f5ffb645fb63c3594922f25"
 metafile = true
