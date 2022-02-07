@@ -109,6 +109,11 @@ hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
 
 [[files]]
+file = "mods/falling-tree.toml"
+hash = "b70acb5d001358cf1ec99d282b202ef42ea340947bee89ad53f2eb1c5c52547b"
+metafile = true
+
+[[files]]
 file = "mods/fast-furnace-for-fabric.toml"
 hash = "9ea34bd53ee193c659de4a08c0019e3978b649ea94577ff85cff6e79e546abd4"
 metafile = true
