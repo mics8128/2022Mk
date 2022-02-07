@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/defaultsettings-fabric.toml"
-hash = "207ce00bdf883a1b3c71d06a3b5d3a0920d9c821c6c8403556ea75573f1ff0ad"
+hash = "04accf08a328e6bffeec23a58d71e8814ac7f90e41dd0436e03a5652ca687350"
 metafile = true
 
 [[files]]
