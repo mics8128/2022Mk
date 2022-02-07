@@ -141,11 +141,6 @@ hash = "c232ccf873db67e58c35803e9b79dbd6c4d5faea9e65c07d32a60e4c11cedc6d"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-celestials-fabric.toml"
-hash = "b72f1a1cb4c58133da7730d95f5c7d87595f8d9581821721f2338681eea88106"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.toml"
 hash = "21c565b796593de360584d027c4a6a44c73323a637a16ece52dd535750c1b846"
 metafile = true
@@ -203,11 +198,6 @@ metafile = true
 [[files]]
 file = "mods/imblockerfabric.toml"
 hash = "3e3dada9877ac8ab9393f76cc65f3a4ea11e0cbcb5ac6151ccf83f2f0dc86030"
-metafile = true
-
-[[files]]
-file = "mods/immersiveportals.toml"
-hash = "7c2395805eaa57769509cc087ed7e9a598df9a8cdc4811c14282b912263b948b"
 metafile = true
 
 [[files]]
