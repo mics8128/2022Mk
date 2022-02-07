@@ -143,6 +143,11 @@ hash = "465889eb9f9152c2eef486f61ae51302cd9a2a877cbe30599ceb76689657b163"
 metafile = true
 
 [[files]]
+file = "mods/irisshaders.toml"
+hash = "d66fe33e59831d85fcde0e7feee237c4c56981162f5ffb645fb63c3594922f25"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.toml"
 hash = "3a659dd8ea30b4e0e75b87f8697518f30084f57ba91e1bc359d8770d37a31f21"
 metafile = true
