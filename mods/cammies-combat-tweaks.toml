@@ -1,0 +1,13 @@
+name = "Cammie's Combat Tweaks"
+filename = "combattweaks-1.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3622/465/combattweaks-1.8.jar"
+hash-format = "murmur2"
+hash = "1287827544"
+
+[update]
+[update.curseforge]
+file-id = 3622465
+project-id = 535617
