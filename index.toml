@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "5d0dbd466d62e56f5960bf2bd0a31284d59db49891531c1b1a3599d757b4cc18"
+file = "config/defaultsettings/Default/keys.txt"
+hash = "2d461dcb36a86fc4826df5ef43e4f61f512f4f7b2b3833814bcbee021fbe56cf"
 
 [[files]]
-file = "config/defaultoptions/options.txt"
-hash = "46bf012f7178c096a364f0a1e8db183a867329fb4e2f340132a0c6920d131e07"
+file = "config/defaultsettings/Default/options.txt"
+hash = "db1bbc29ed7acf176c0ecc443963f72f4def8e4fd3dc79da9bee5ce4fb4ea7ef"
+
+[[files]]
+file = "config/defaultsettings/Default/servers.dat"
+hash = "64b35ba56f169834b332e6e1b0a76d87ecf56ead86f74641ddd47265884e86eb"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/ignore.json"
+hash = "4087cbe05cdbc5aa55b8ea8993a05df69efd1f3af76d59d1f8ab5f1c8a3bf706"
 
 [[files]]
 file = "config/rpmtw_update_mod.toml"
