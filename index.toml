@@ -40,6 +40,11 @@ hash = "7a66e1d3b9c6ddc95b3975f7dc9b9d850693b6cc836e3c20818009427150b28b"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.toml"
+hash = "c72f9f55a08c05643abc2caaf4953acc44099e645eca96e5dd08010a54135dc1"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.toml"
 hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
 metafile = true
@@ -80,6 +85,11 @@ hash = "90006dd9c80584d9f41627e8b449124c27ca2c5b3f680e3751658f1986b94e62"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.toml"
+hash = "3e714fc726766a58b1f1b3cbd8aa0e1dd66a8f5a6a63833fe0849a2d02dcda8a"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-block-entities.toml"
 hash = "c232ccf873db67e58c35803e9b79dbd6c4d5faea9e65c07d32a60e4c11cedc6d"
 metafile = true
@@ -95,8 +105,23 @@ hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
 
 [[files]]
+file = "mods/fast-furnace-for-fabric.toml"
+hash = "9ea34bd53ee193c659de4a08c0019e3978b649ea94577ff85cff6e79e546abd4"
+metafile = true
+
+[[files]]
+file = "mods/fastbench-for-fabric.toml"
+hash = "f533a7fcf67dc8173057d48055697bbd230651a5afa1a61423463dc88cc1a9ca"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
+metafile = true
+
+[[files]]
+file = "mods/inv-view.toml"
+hash = "465889eb9f9152c2eef486f61ae51302cd9a2a877cbe30599ceb76689657b163"
 metafile = true
 
 [[files]]
