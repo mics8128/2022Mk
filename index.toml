@@ -236,6 +236,11 @@ hash = "8eceb25fbfc2e74a0f7ca9b2a6bb1eb483dc95b95a7a673a4b27eb0d28b1b4af"
 metafile = true
 
 [[files]]
+file = "mods/ninjaphenix-container-library.toml"
+hash = "47045c6b38dad2b6eee9754dcdbf172be8b3127fb2e4106c08263b71ca9b9b93"
+metafile = true
+
+[[files]]
 file = "mods/no-fade.toml"
 hash = "0501b76f4eb066d9ff58194504f9e40cc57a4bcfc0e0fcae4c04a57782d50a9d"
 metafile = true
