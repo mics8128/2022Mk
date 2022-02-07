@@ -46,6 +46,11 @@ hash = "af33a101b5bee2ff06a9633de4fbc70e91eae4599d2590822297ed04f9b17db9"
 metafile = true
 
 [[files]]
+file = "mods/no-fade.toml"
+hash = "0501b76f4eb066d9ff58194504f9e40cc57a4bcfc0e0fcae4c04a57782d50a9d"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.toml"
 hash = "3c193cfd975971adc376927124f06701ab2b463454061fb2d2595866c659a82c"
 metafile = true
