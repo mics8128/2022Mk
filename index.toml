@@ -206,6 +206,11 @@ hash = "d6a607a1f3d97bd19c932483aa4c78857ce528493185f5db4c61da7629e178cd"
 metafile = true
 
 [[files]]
+file = "mods/imblockerfabric.toml"
+hash = "3e3dada9877ac8ab9393f76cc65f3a4ea11e0cbcb5ac6151ccf83f2f0dc86030"
+metafile = true
+
+[[files]]
 file = "mods/inv-view.toml"
 hash = "465889eb9f9152c2eef486f61ae51302cd9a2a877cbe30599ceb76689657b163"
 metafile = true
