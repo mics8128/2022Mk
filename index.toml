@@ -180,3 +180,8 @@ metafile = true
 file = "mods/xaeros-minimap-fair-play-edition.toml"
 hash = "517a15807d761059f9d48b1e1fb8b1e261bf42704deca818fa984051a17f9aed"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "96c8320ebe996a9ea817165c47049d4c2efe31006b715a17342323c95e51eaec"
+metafile = true
