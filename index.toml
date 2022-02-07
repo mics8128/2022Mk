@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpmtw-update-mod.toml"
-hash = "3de707f10cf2b2f148abe3a691ea702d726676c16f2c85ef05077f6f3e505202"
+hash = "05c9d0f2506878b6174b52d869e88691e66cbe1667d21025f2c00c5b62b2e0ee"
 metafile = true
 
 [[files]]
