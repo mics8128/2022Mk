@@ -9,10 +9,6 @@ file = "config/defaultoptions/options.txt"
 hash = "46bf012f7178c096a364f0a1e8db183a867329fb4e2f340132a0c6920d131e07"
 
 [[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "64b35ba56f169834b332e6e1b0a76d87ecf56ead86f74641ddd47265884e86eb"
-
-[[files]]
 file = "config/rpmtw_update_mod.toml"
 hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
 
