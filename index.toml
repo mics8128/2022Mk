@@ -49,3 +49,13 @@ metafile = true
 file = "mods/plasmo-voice.toml"
 hash = "3c193cfd975971adc376927124f06701ab2b463454061fb2d2595866c659a82c"
 metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "948d49197c769a8516d1521d66fee25c4b519da82e500003846423f7190b15c4"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
+metafile = true
