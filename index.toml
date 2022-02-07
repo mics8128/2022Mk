@@ -206,6 +206,11 @@ hash = "465889eb9f9152c2eef486f61ae51302cd9a2a877cbe30599ceb76689657b163"
 metafile = true
 
 [[files]]
+file = "mods/inventorio.toml"
+hash = "e74a6d5e795569684394fae839b352908edb773a7e1af841a7754fa5646771f0"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.toml"
 hash = "19b65cb4abe03a74d6a7a84145975520c1b7aa1b9b331cf48066084fe39835ac"
 metafile = true
