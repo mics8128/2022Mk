@@ -16,6 +16,6 @@ hash = "b07bf5cc07a80a89ad2bb4a149655a6f7f0d8684c7bc3fda6767040cb6c5b7b9"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.toml"
-hash = "a734e37d58a087af921434d69e3521a89bbd039f7a347b5af0e21529648bf316"
+file = "mods/plasmo-voice.toml"
+hash = "3c193cfd975971adc376927124f06701ab2b463454061fb2d2595866c659a82c"
 metafile = true
