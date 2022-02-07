@@ -6,7 +6,7 @@ hash = "8cdf02d0a91f738e6be34d129367f9d83f6615a824a13e93c9470bc51fd2a077"
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
-hash = "2d461dcb36a86fc4826df5ef43e4f61f512f4f7b2b3833814bcbee021fbe56cf"
+hash = "1225b2d8058e48075ba3d2dab63e4a832d3ccd571386c05abf45fca33d391304"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
