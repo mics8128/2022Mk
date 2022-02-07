@@ -17,6 +17,16 @@ file = "config/rpmtw_update_mod.toml"
 hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
 
 [[files]]
+file = "mods/appleskin.toml"
+hash = "ba1f962e329972d937452b1db563b5f1a8871ab5931604769ea4a8883a559a5a"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.toml"
 hash = "7a66e1d3b9c6ddc95b3975f7dc9b9d850693b6cc836e3c20818009427150b28b"
 metafile = true
@@ -29,6 +39,16 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "504fd0d00011961598b4bd34ac13d51b1fb159230638d13b1ce789bb702c59be"
+metafile = true
+
+[[files]]
+file = "mods/clumps.toml"
+hash = "bcf6015b39caa1d6be765147a511ee8a1b579fa0d6b039728044b3735207ba8d"
+metafile = true
+
+[[files]]
+file = "mods/controlling.toml"
+hash = "5302505ef9d021ba8e0991a903d614de44ffddb98ce4aa8a1260f65ce1149069"
 metafile = true
 
 [[files]]
@@ -92,6 +112,11 @@ hash = "8fcec65c73d749d008328d724906089bedb7ec37b03daefe38006e69e2399b43"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "8eceb25fbfc2e74a0f7ca9b2a6bb1eb483dc95b95a7a673a4b27eb0d28b1b4af"
+metafile = true
+
+[[files]]
 file = "mods/no-fade.toml"
 hash = "0501b76f4eb066d9ff58194504f9e40cc57a4bcfc0e0fcae4c04a57782d50a9d"
 metafile = true
@@ -109,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "afc78e26f2386e77df2de6bec037c14eb74f063e3551f2ab71f10ff80bc5e986"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
 metafile = true
 
 [[files]]
