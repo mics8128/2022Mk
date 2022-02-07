@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultsettings/Default/bobby.conf"
+hash = "8cdf02d0a91f738e6be34d129367f9d83f6615a824a13e93c9470bc51fd2a077"
+
+[[files]]
 file = "config/defaultsettings/Default/keys.txt"
 hash = "2d461dcb36a86fc4826df5ef43e4f61f512f4f7b2b3833814bcbee021fbe56cf"
 
@@ -9,16 +13,16 @@ file = "config/defaultsettings/Default/options.txt"
 hash = "06e3a6d12b0f2d466e7f67c6610c140b01fc8da24c3213ca572ce380a0076a09"
 
 [[files]]
+file = "config/defaultsettings/Default/rpmtw_update_mod.toml"
+hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
+
+[[files]]
 file = "config/defaultsettings/Default/servers.dat"
 hash = "64b35ba56f169834b332e6e1b0a76d87ecf56ead86f74641ddd47265884e86eb"
 
 [[files]]
 file = "config/defaultsettings/sharedConfigs/ignore.json"
 hash = "4087cbe05cdbc5aa55b8ea8993a05df69efd1f3af76d59d1f8ab5f1c8a3bf706"
-
-[[files]]
-file = "config/rpmtw_update_mod.toml"
-hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
 
 [[files]]
 file = "mods/appleskin.toml"
