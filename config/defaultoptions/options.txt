@@ -1,6 +1,6 @@
 version:2865
-previousLang:
-autoJump:true
+previousLang:en_us
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -20,7 +20,7 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.5
+mouseSensitivity:0.35329868007399756
 fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -28,7 +28,7 @@ gamma:0.5
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:0
+guiScale:4
 particles:0
 maxFps:120
 difficulty:2
@@ -37,10 +37,10 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["Fabric Mods"]
+resourcePacks:["vanilla","Fabric Mods","RPMTW 1.18 翻譯???"]
 incompatibleResourcePacks:[]
 lastServer:
-lang:en_us
+lang:zh_tw
 soundDevice:
 chatVisibility:0
 chatOpacity:1.0
@@ -67,15 +67,15 @@ tutorialStep:movement
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:false
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.50165564
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

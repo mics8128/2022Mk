@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "5d0dbd466d62e56f5960bf2bd0a31284d59db49891531c1b1a3599d757b4cc18"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "eec296420f7792f494d7c601fdde6ef87c0a595f90f6cccc3c1ec0faae3a6ed4"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "64b35ba56f169834b332e6e1b0a76d87ecf56ead86f74641ddd47265884e86eb"
+
+[[files]]
 file = "config/rpmtw_update_mod.toml"
 hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
 
