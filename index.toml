@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/dynamic-fps.toml"
+hash = "90006dd9c80584d9f41627e8b449124c27ca2c5b3f680e3751658f1986b94e62"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "c232ccf873db67e58c35803e9b79dbd6c4d5faea9e65c07d32a60e4c11cedc6d"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+hash = "21c565b796593de360584d027c4a6a44c73323a637a16ece52dd535750c1b846"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
@@ -8,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.toml"
+hash = "3a659dd8ea30b4e0e75b87f8697518f30084f57ba91e1bc359d8770d37a31f21"
 metafile = true
 
 [[files]]
