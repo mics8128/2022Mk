@@ -40,11 +40,6 @@ hash = "7a66e1d3b9c6ddc95b3975f7dc9b9d850693b6cc836e3c20818009427150b28b"
 metafile = true
 
 [[files]]
-file = "mods/better-compatibility-checker.toml"
-hash = "c72f9f55a08c05643abc2caaf4953acc44099e645eca96e5dd08010a54135dc1"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.toml"
 hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
 metafile = true
