@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/rpmtw_update_mod.toml"
+hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "40ff70fa605fec46557656ecbe1c7517c5a5689524df7cd5af71e90c7177948b"
+
+[[files]]
 file = "mods/betterf3.toml"
 hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
 metafile = true
@@ -108,4 +116,9 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.toml"
 hash = "f72cbfcc9dd7079ae697512338158d3d98efd4b7ef2dfbcd9ee5f829d3efedb6"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.toml"
+hash = "c4a7a34adefe0527060ab7e840f38330d6d462811ef32fadab80df39be985529"
 metafile = true
