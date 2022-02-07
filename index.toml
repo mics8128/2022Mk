@@ -7,11 +7,11 @@ preserve = true
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "eedcfd5dfe5e622f2a77a92f6a115f7ce584e8cff80653ee0e68a9359f388f9e"
+hash = "2b07e1ca88160cc422ed9d9bd13b43146c2604061e4ace7f4082c7162de4b5f4"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "fece5fa9ab314667f274640099d814c9e85511c3a869b4fd49921878867075d3"
+hash = "f34e9896f212871e736b272a64e3f642dc5f72c4faf78351a2afe5a3eb887110"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -58,11 +58,6 @@ metafile = true
 [[files]]
 file = "mods/bobby.toml"
 hash = "de9f0a941156d95091b39b434fe31fe76cb612eeb0592618d325835d501a4c02"
-metafile = true
-
-[[files]]
-file = "mods/cammies-combat-tweaks.toml"
-hash = "8ad587909546ca47c700e08089603745d63882b06c8f2e245a16afe92cfcb9b7"
 metafile = true
 
 [[files]]
