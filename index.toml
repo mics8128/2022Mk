@@ -57,11 +57,6 @@ hash = "5302505ef9d021ba8e0991a903d614de44ffddb98ce4aa8a1260f65ce1149069"
 metafile = true
 
 [[files]]
-file = "mods/default-options-fabric.toml"
-hash = "79218c2f553d60955fe2b5a9dc4957de4a2d59e10a0fe0c4e6c0395505b4e752"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "90006dd9c80584d9f41627e8b449124c27ca2c5b3f680e3751658f1986b94e62"
 metafile = true
