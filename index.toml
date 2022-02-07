@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.toml"
-hash = "b70acb5d001358cf1ec99d282b202ef42ea340947bee89ad53f2eb1c5c52547b"
+hash = "18fa93ecb1f63d84fe9c655a6c621e168faa42ca36ece62af3fd88d584cf946e"
 metafile = true
 
 [[files]]
