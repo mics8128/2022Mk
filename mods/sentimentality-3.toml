@@ -1,0 +1,13 @@
+name = "Sentimentality 3"
+filename = "sentimentality3-1.4.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3619/842/sentimentality3-1.4.7.jar"
+hash-format = "murmur2"
+hash = "4098120369"
+
+[update]
+[update.curseforge]
+file-id = 3619842
+project-id = 431239
