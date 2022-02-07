@@ -1,8 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/defaultsettings/Default/bobby.conf"
+file = "config/bobby.conf"
 hash = "8cdf02d0a91f738e6be34d129367f9d83f6615a824a13e93c9470bc51fd2a077"
+preserve = true
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
@@ -13,24 +14,17 @@ file = "config/defaultsettings/Default/options.txt"
 hash = "06e3a6d12b0f2d466e7f67c6610c140b01fc8da24c3213ca572ce380a0076a09"
 
 [[files]]
-file = "config/defaultsettings/Default/rpmtw_update_mod.toml"
-hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
-
-[[files]]
-file = "config/defaultsettings/Default/servers.dat"
-hash = "64b35ba56f169834b332e6e1b0a76d87ecf56ead86f74641ddd47265884e86eb"
-
-[[files]]
-file = "config/defaultsettings/sharedConfigs/ignore.json"
-hash = "4087cbe05cdbc5aa55b8ea8993a05df69efd1f3af76d59d1f8ab5f1c8a3bf706"
-
-[[files]]
 file = "config/dynview.json"
 hash = "5e2e9dec7c43da6f75c3d7dace5f2baa2554cb81a9756d6f6ef7b0318e620360"
 
 [[files]]
 file = "config/fallingtree.json"
 hash = "a892b8be7844df0b31ca9d66122ab3894ecfa84799386ba94123d9e6d784e987"
+
+[[files]]
+file = "config/rpmtw_update_mod.toml"
+hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
+preserve = true
 
 [[files]]
 file = "mods/amecs.toml"
@@ -246,3 +240,8 @@ metafile = true
 file = "mods/xaeros-world-map.toml"
 hash = "96c8320ebe996a9ea817165c47049d4c2efe31006b715a17342323c95e51eaec"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "64b35ba56f169834b332e6e1b0a76d87ecf56ead86f74641ddd47265884e86eb"
+preserve = true
