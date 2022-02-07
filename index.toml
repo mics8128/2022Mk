@@ -281,16 +281,6 @@ hash = "05c9d0f2506878b6174b52d869e88691e66cbe1667d21025f2c00c5b62b2e0ee"
 metafile = true
 
 [[files]]
-file = "mods/sentimentality-3.toml"
-hash = "dd75bcac84844ea98cf9829302e55d39e0628f581aaf1f37a80bb0fb78d40725"
-metafile = true
-
-[[files]]
-file = "mods/skylib.toml"
-hash = "a8020c0eb531939cd7fe8d78a2171a5a0da90c1edd4891e9d467b0272db49939"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.toml"
 hash = "b6afdd01aff82e263d81b4f3a629a011baa6607b87582088bbdb16ca9cb2149c"
 metafile = true
