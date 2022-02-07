@@ -29,6 +29,10 @@ file = "config/dynview.json"
 hash = "5e2e9dec7c43da6f75c3d7dace5f2baa2554cb81a9756d6f6ef7b0318e620360"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "a892b8be7844df0b31ca9d66122ab3894ecfa84799386ba94123d9e6d784e987"
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "ba1f962e329972d937452b1db563b5f1a8871ab5931604769ea4a8883a559a5a"
 metafile = true
