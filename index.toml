@@ -51,6 +51,11 @@ hash = "3c193cfd975971adc376927124f06701ab2b463454061fb2d2595866c659a82c"
 metafile = true
 
 [[files]]
+file = "mods/rpmtw-update-mod.toml"
+hash = "0528ae3ee8c8dec0c3ed25026db1ce4bb2c5db391519fcccd176b7878a5fc782"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "948d49197c769a8516d1521d66fee25c4b519da82e500003846423f7190b15c4"
 metafile = true
