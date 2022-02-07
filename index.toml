@@ -41,8 +41,18 @@ hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
 metafile = true
 
 [[files]]
+file = "mods/backslot.toml"
+hash = "2bb371922fea17babe6b7382bfa4371ad2ed4abae4053e2d9dba30e2318973f2"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.toml"
 hash = "7a66e1d3b9c6ddc95b3975f7dc9b9d850693b6cc836e3c20818009427150b28b"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.toml"
+hash = "6caa90ec195f3b86f0b0a7ee738fce0f4b1190894d438a6886aa6cc77a7830d1"
 metafile = true
 
 [[files]]
@@ -243,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "8336f0e1553fb60080e1d0230a851711d268d72379e1377ebf040ae8faca3f7f"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.toml"
+hash = "36761762c6dae71282fa47d6618c73080ec072903bc2edaa86f4202165374aea"
 metafile = true
 
 [[files]]
