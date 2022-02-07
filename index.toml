@@ -151,6 +151,11 @@ hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.toml"
 hash = "b70acb5d001358cf1ec99d282b202ef42ea340947bee89ad53f2eb1c5c52547b"
 metafile = true
@@ -176,6 +181,11 @@ hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port-fabric.toml"
+hash = "16460cf6b9527d4ba6c2f66e7518f60fed71cabf5833dd8152f965930f5bd139"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-fabric.toml"
 hash = "896b5bd9861b6747c0eb6e00bb67131080b662239af1353ac93f5d32541631c1"
 metafile = true
@@ -188,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-fabric.toml"
 hash = "76bc027caabbcf1e5448ae0fae4fa885df5ebb7cbf49ea83775d32ce8b079f56"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "d6a607a1f3d97bd19c932483aa4c78857ce528493185f5db4c61da7629e178cd"
 metafile = true
 
 [[files]]
@@ -263,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph-fabric.toml"
 hash = "c30f1523e9c1c03b65d0a5f8b6820260f7054531c8f2011ac1e51c4b045141c8"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib-fabric.toml"
+hash = "e1f360fffa6a40762ec5ce48718a92d871a9d8840c482f9a62ea3e25fa652836"
 metafile = true
 
 [[files]]
