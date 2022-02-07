@@ -5,8 +5,23 @@ file = "config/rpmtw_update_mod.toml"
 hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
 
 [[files]]
+file = "mods/balm-fabric.toml"
+hash = "4520fc3c1966dd15bedf15fb4facdbf3b80d60727962be6cdc6c5f72584eb14a"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.toml"
 hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "7bbfbed46e2604c84df612e950efed8ba7fce4ed6f6afd97c5f07cc5a2f7cd2b"
+metafile = true
+
+[[files]]
+file = "mods/default-options-fabric.toml"
+hash = "7d3e5c5fcb4989ec0d2e3e5f2fc84599903d6f74e716e88f31fd2e063632277e"
 metafile = true
 
 [[files]]
