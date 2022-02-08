@@ -1,8 +1,4 @@
 {
-    "ModSettings": {
-        "enable_profiles": false,
-        "first_run": false
-    },
     "GuiSettings": {
         "enable_profiles_ui": false,
         "enable_inventory_editor_button": false

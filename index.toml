@@ -36,7 +36,7 @@ preserve = true
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "09c7123701cb77c723bca17d534b5a5b3deafa4ba03c02923499b6996345a5e5"
+hash = "65fc7fe6db7b79bc2153d7cfcc83772e60b47daf375d9ab51c8932dfc1270c41"
 preserve = true
 
 [[files]]
