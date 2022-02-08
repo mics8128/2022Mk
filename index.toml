@@ -45,6 +45,20 @@ hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
 preserve = true
 
 [[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "56b67e0e911b8eea7e19412e864ef6553b3a8e6a52dd71fe2a7eed0dc6228daf"
+preserve = true
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "b1020e8548bb2dacd81d980456c909e3c35c35dc9c0eba9f922ca06f6f07d018"
+preserve = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "ba1f962e329972d937452b1db563b5f1a8871ab5931604769ea4a8883a559a5a"
 metafile = true
