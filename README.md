@@ -20,9 +20,9 @@
 # Add entities / items / blocks 新增生物、物品、方塊
 * 更多苦力怕
   * [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)
-* 金屬大箱子 (搜尋 @expanded)
+* 金屬大箱子 (REI 搜尋 @expanded)
   * [Expanded Storage](https://modrinth.com/mod/expanded-storage)
-* 更多動物 (搜尋 @animal)
+* 更多動物及相關物品 (REI 搜尋 @animal)
   * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
-* 電梯方塊 (搜尋 @quartz)
+* 電梯方塊 (REI 搜尋 @quartz)
   * [Quartz Elevator](https://www.curseforge.com/minecraft/mc-mods/quartz-elevator)
