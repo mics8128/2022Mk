@@ -24,5 +24,8 @@
   * [Expanded Storage](https://modrinth.com/mod/expanded-storage)
 * 更多動物及相關物品 (REI 搜尋 @animal)
   * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
+  * [Chirpy's Wildlife](https://www.curseforge.com/minecraft/mc-mods/chirpys-wildlife)
+  * [Capybara](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric)
+  * [Caracal Mod](https://www.curseforge.com/minecraft/mc-mods/caracal-mod)
 * 電梯方塊 (REI 搜尋 @quartz)
   * [Quartz Elevator](https://www.curseforge.com/minecraft/mc-mods/quartz-elevator)
