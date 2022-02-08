@@ -6,6 +6,10 @@ hash = "8cdf02d0a91f738e6be34d129367f9d83f6615a824a13e93c9470bc51fd2a077"
 preserve = true
 
 [[files]]
+file = "config/boringdefaultgamerules.json"
+hash = "7b576443c69bb6e2826a000acd4bb779c0102c19cdc724d0410a272fc50d9584"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "2b07e1ca88160cc422ed9d9bd13b43146c2604061e4ace7f4082c7162de4b5f4"
 

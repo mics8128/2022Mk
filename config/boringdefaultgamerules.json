@@ -1,0 +1,7 @@
+{
+  "$schema": "file:///E:/Games/HMCL/MK/versions/2022Mk/config/schema/boringdefaultgamerules.schema.json",
+  "default_game_rules": {
+	  "spawnRadius": 2000
+  },
+  "generate_json_schema": true
+}
