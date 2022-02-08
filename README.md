@@ -10,6 +10,7 @@
 * 地圖使用原生產生器，不做大幅度變更
 * 擴充結構 (用原生方塊)
   * [Repurposed Structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
+  * [Awesome Dungeon - Fabric](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-fabric)
 
 # Play 遊戲
 * +-2000 隨機重生

@@ -69,6 +69,11 @@ hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
 metafile = true
 
 [[files]]
+file = "mods/awesome-dungeon-fabric.toml"
+hash = "1658f72d0c8fee83ec78d01f226361e44316f1956a12b452f1a6114af389fe13"
+metafile = true
+
+[[files]]
 file = "mods/backslot.toml"
 hash = "2bb371922fea17babe6b7382bfa4371ad2ed4abae4053e2d9dba30e2318973f2"
 metafile = true
@@ -281,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "d29c81118c71783f1a833ec2b5b5e2be98d1bfce3652026b24161cb27288e3be"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret-fabric.toml"
+hash = "21770f0af01d94cc4a3c699898f8827681cac2356a4c19892dd4667032ae85e7"
 metafile = true
 
 [[files]]
