@@ -89,6 +89,11 @@ hash = "7a66e1d3b9c6ddc95b3975f7dc9b9d850693b6cc836e3c20818009427150b28b"
 metafile = true
 
 [[files]]
+file = "mods/basic-shields-fabric.toml"
+hash = "5115f9d4e33b3ba8599932511ed9ae8af2db1e1b38ec52e07fc238fbb61070d3"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.toml"
 hash = "6caa90ec195f3b86f0b0a7ee738fce0f4b1190894d438a6886aa6cc77a7830d1"
 metafile = true
@@ -211,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-shield-lib.toml"
+hash = "64cd75d030bedcd9d94cbbbb0976360ea1ed8dc51b5ee79bb0c6bef80396820d"
 metafile = true
 
 [[files]]
