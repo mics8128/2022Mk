@@ -11,11 +11,11 @@ hash = "7b576443c69bb6e2826a000acd4bb779c0102c19cdc724d0410a272fc50d9584"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "2b07e1ca88160cc422ed9d9bd13b43146c2604061e4ace7f4082c7162de4b5f4"
+hash = "3549b8f188bc1f3945d3bba0a7e320a16f5bf08b4a8da9f2319e611af389f20e"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "f34e9896f212871e736b272a64e3f642dc5f72c4faf78351a2afe5a3eb887110"
+hash = "3bb4322dcaaac9a08127887f73f99d716d6bdefed96bcc8303149fc2d821bf67"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -28,6 +28,16 @@ hash = "5e2e9dec7c43da6f75c3d7dace5f2baa2554cb81a9756d6f6ef7b0318e620360"
 [[files]]
 file = "config/fallingtree.json"
 hash = "a892b8be7844df0b31ca9d66122ab3894ecfa84799386ba94123d9e6d784e987"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+preserve = true
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "09c7123701cb77c723bca17d534b5a5b3deafa4ba03c02923499b6996345a5e5"
+preserve = true
 
 [[files]]
 file = "config/rpmtw_update_mod.toml"
