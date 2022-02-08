@@ -50,6 +50,11 @@ hash = "2bb371922fea17babe6b7382bfa4371ad2ed4abae4053e2d9dba30e2318973f2"
 metafile = true
 
 [[files]]
+file = "mods/backslotaddon.toml"
+hash = "a193270f337ef5d6c64429da9f92e451e1e86077826e7c40ee6b6ed98a337beb"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.toml"
 hash = "7a66e1d3b9c6ddc95b3975f7dc9b9d850693b6cc836e3c20818009427150b28b"
 metafile = true
