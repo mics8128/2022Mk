@@ -9,6 +9,7 @@
 # Map 地圖
 * 地圖使用原生產生器，不做大幅度變更
 * 擴充結構 (用原生方塊)
+  * [Repurposed Structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
 
 # Play 遊戲
 * +-2000 隨機重生
@@ -17,6 +18,10 @@
 
 # Add entities / items / blocks 新增生物、物品、方塊
 * 更多苦力怕
+  * [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)
 * 金屬大箱子 (搜尋 @expanded)
+  * [Expanded Storage](https://modrinth.com/mod/expanded-storage)
 * 更多動物 (搜尋 @animal)
+  * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
 * 電梯方塊 (搜尋 @quartz)
+  * [Quartz Elevator](https://www.curseforge.com/minecraft/mc-mods/quartz-elevator)
