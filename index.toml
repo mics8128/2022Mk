@@ -149,6 +149,11 @@ hash = "778852fa99cf4f365f15984220fee2897b1e34ae7a086414b33c37cb699d7268"
 metafile = true
 
 [[files]]
+file = "mods/creeper-ai-updated.toml"
+hash = "c82b9ad27aa7496db62408dfc1f3c0c7aa136357bd41ec18b0736118dc008b0f"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.toml"
 hash = "ea96f09c8cc2dfd3e39bdb137393a86f5bdf02bf198f51005e1077ecd5fdc91a"
 metafile = true
