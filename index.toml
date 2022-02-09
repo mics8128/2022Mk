@@ -59,6 +59,10 @@ hash = "b1020e8548bb2dacd81d980456c909e3c35c35dc9c0eba9f922ca06f6f07d018"
 preserve = true
 
 [[files]]
+file = "creeperaiupdated.json"
+hash = "21ab41f7861da59a3fb9c2663b20e87de51c3c0b5843ef0eb02c02e0ee334fc7"
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "ba1f962e329972d937452b1db563b5f1a8871ab5931604769ea4a8883a559a5a"
 metafile = true
