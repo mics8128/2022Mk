@@ -104,11 +104,6 @@ hash = "ec21eab44ca0ec187ec45d14d97c584086ddf62a7d19888ce4609f708c02dea5"
 metafile = true
 
 [[files]]
-file = "mods/betteranimalsplus.toml"
-hash = "f852a29980c2680fa418d3eaa2bb4d7ffebcbb7d302f4a75f26a07f5dbfffdb2"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.toml"
 hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
 metafile = true
@@ -124,28 +119,8 @@ hash = "2c679bfc369c8a2608790267235b296a52be06dc884d86eee2d8b8feac9eda31"
 metafile = true
 
 [[files]]
-file = "mods/capybara-fabric.toml"
-hash = "95ed7b693cc9ee45267695529fb382359a4ca12decf4c1853ce57d5be9a1ef7f"
-metafile = true
-
-[[files]]
-file = "mods/caracal-mod.toml"
-hash = "46253984ca6ae733f18159b51c296b13772ded7e99400da8c0e16318d7db4a87"
-metafile = true
-
-[[files]]
-file = "mods/carrier.toml"
-hash = "dd4c55b2ce4e782c14c111672514286d70e825266b2f0f09df48adfbb5ed536c"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.toml"
 hash = "a07101857125383aed77c30cb670d3c6c03911cec6954f5c016a41ac22228d24"
-metafile = true
-
-[[files]]
-file = "mods/chirpys-wildlife.toml"
-hash = "fab83807374c1dc26a04831d07a1d10848936a273b34b579c284240586c2364a"
 metafile = true
 
 [[files]]
@@ -171,11 +146,6 @@ metafile = true
 [[files]]
 file = "mods/crawl.toml"
 hash = "778852fa99cf4f365f15984220fee2897b1e34ae7a086414b33c37cb699d7268"
-metafile = true
-
-[[files]]
-file = "mods/creeper-overhaul.toml"
-hash = "6312227e4a92ed127bf69f08d48b6abbdb5dbaa740d580730ac5b0ae26e57885"
 metafile = true
 
 [[files]]
@@ -216,11 +186,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.toml"
 hash = "21c565b796593de360584d027c4a6a44c73323a637a16ece52dd535750c1b846"
-metafile = true
-
-[[files]]
-file = "mods/expanded-storage.toml"
-hash = "d3a79d1bbad822d887afdff7a6e923b78231ad9f225080a77820a6cb07a215da"
 metafile = true
 
 [[files]]
@@ -386,11 +351,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib-fabric.toml"
 hash = "e1f360fffa6a40762ec5ce48718a92d871a9d8840c482f9a62ea3e25fa652836"
-metafile = true
-
-[[files]]
-file = "mods/quartz-elevator.toml"
-hash = "60d2eb97247e0d89eb75600157a8e81e43765217a21676a86a70646ec1ae68ec"
 metafile = true
 
 [[files]]

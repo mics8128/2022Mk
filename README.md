@@ -1,5 +1,7 @@
 # 2022 MK 模組包
 
+主題方向為 -- 盡可能維持原有世界的內容 增加容易延續的擴充內容
+
 # QOL Qulity of Life
 * FPS 優化、光影模組(不含光影包)、各種好東西
 * 死亡 Log (按下 End 可以觀看死亡紀錄)
@@ -16,16 +18,3 @@
 * +-2000 隨機重生
 * 遊戲內環境語音系統 (按下 Alt 講話, 按下 V 開啟語音設定介面)
 * 鞘翅 & 背 & 腰帶欄位 (背 & 腰切換熱鍵為 G, H)
-
-# Add entities / items / blocks 新增生物、物品、方塊
-* 更多苦力怕
-  * [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)
-* 金屬大箱子 (REI 搜尋 @expanded)
-  * [Expanded Storage](https://modrinth.com/mod/expanded-storage)
-* 更多動物及相關物品 (REI 搜尋 @animal)
-  * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
-  * [Chirpy's Wildlife](https://www.curseforge.com/minecraft/mc-mods/chirpys-wildlife)
-  * [Capybara](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric)
-  * [Caracal Mod](https://www.curseforge.com/minecraft/mc-mods/caracal-mod)
-* 電梯方塊 (REI 搜尋 @quartz)
-  * [Quartz Elevator](https://www.curseforge.com/minecraft/mc-mods/quartz-elevator)
