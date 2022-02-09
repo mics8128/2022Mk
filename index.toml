@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "7bbfbed46e2604c84df612e950efed8ba7fce4ed6f6afd97c5f07cc5a2f7cd2b"
+hash = "61a15f37dbaee42076eb50b29b17279561ef44ec14208db6790c0c0981723823"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.toml"
-hash = "3a659dd8ea30b4e0e75b87f8697518f30084f57ba91e1bc359d8770d37a31f21"
+hash = "b7b808b79f27c2516aae12a3cea122c62be0397cc83adfddedc402509c1c7460"
 metafile = true
 
 [[files]]
