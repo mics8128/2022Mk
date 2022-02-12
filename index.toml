@@ -173,11 +173,6 @@ hash = "79218c2f553d60955fe2b5a9dc4957de4a2d59e10a0fe0c4e6c0395505b4e752"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.toml"
-hash = "90006dd9c80584d9f41627e8b449124c27ca2c5b3f680e3751658f1986b94e62"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-view.toml"
 hash = "3e714fc726766a58b1f1b3cbd8aa0e1dd66a8f5a6a63833fe0849a2d02dcda8a"
 metafile = true
@@ -218,16 +213,6 @@ hash = "18fa93ecb1f63d84fe9c655a6c621e168faa42ca36ece62af3fd88d584cf946e"
 metafile = true
 
 [[files]]
-file = "mods/fast-furnace-for-fabric.toml"
-hash = "9ea34bd53ee193c659de4a08c0019e3978b649ea94577ff85cff6e79e546abd4"
-metafile = true
-
-[[files]]
-file = "mods/fastbench-for-fabric.toml"
-hash = "f533a7fcf67dc8173057d48055697bbd230651a5afa1a61423463dc88cc1a9ca"
-metafile = true
-
-[[files]]
 file = "mods/feature-nbt-deadlock-be-gone.toml"
 hash = "051c09e14638dc26c9f80ceb44facb5f3f2aa2d5aa352719748c3facd10a9ab3"
 metafile = true
@@ -240,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.toml"
 hash = "16460cf6b9527d4ba6c2f66e7518f60fed71cabf5833dd8152f965930f5bd139"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.toml"
+hash = "1f7773e293ee997e5056592c5923c2ac2ef065d2165a261546a680aaa6a307ec"
 metafile = true
 
 [[files]]
