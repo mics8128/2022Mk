@@ -64,6 +64,10 @@ hash = "b1020e8548bb2dacd81d980456c909e3c35c35dc9c0eba9f922ca06f6f07d018"
 preserve = true
 
 [[files]]
+file = "config/waystones.toml"
+hash = "00624821d7a8b7c2a85462a4968bb63b27a4373bb05d1a6e7df0f0eb1b5fc2af"
+
+[[files]]
 file = "creeperaiupdated.json"
 hash = "21ab41f7861da59a3fb9c2663b20e87de51c3c0b5843ef0eb02c02e0ee334fc7"
 
