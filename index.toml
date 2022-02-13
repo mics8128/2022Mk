@@ -23,7 +23,7 @@ hash = "64b35ba56f169834b332e6e1b0a76d87ecf56ead86f74641ddd47265884e86eb"
 
 [[files]]
 file = "config/dynview.json"
-hash = "5e2e9dec7c43da6f75c3d7dace5f2baa2554cb81a9756d6f6ef7b0318e620360"
+hash = "ac8c90d4d29ac2f0a5e820a640a58eade68e9faaa4d7d825129a9948ffcde2a4"
 
 [[files]]
 file = "config/fallingtree.json"
