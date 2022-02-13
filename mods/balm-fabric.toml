@@ -1,6 +1,6 @@
 name = "Balm (Fabric Edition)"
 filename = "balm-fabric-2.4.1+0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3606/151/balm-fabric-2.4.1+0.jar"
