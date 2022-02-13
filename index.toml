@@ -65,7 +65,7 @@ preserve = true
 
 [[files]]
 file = "config/waystones.toml"
-hash = "00624821d7a8b7c2a85462a4968bb63b27a4373bb05d1a6e7df0f0eb1b5fc2af"
+hash = "4a261b1e6ba3ddb0f1b6b5f8dd1de4deb225f2ff6d0563236be1dcae264c28fc"
 
 [[files]]
 file = "creeperaiupdated.json"
