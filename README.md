@@ -16,7 +16,7 @@
 * 鞘翅 & 背 & 腰帶欄位 (背 & 腰切換熱鍵為 G, H)
 
 # 更新快速的模組們
-* 傳送石碑 https://www.curseforge.com/minecraft/mc-mods/waystones-fabric
+* 傳送石碑 https://www.curseforge.com/minecraft/mc-mods/fabric-waystones
 * 鞘翅欄位 https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric
 * trinket https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric
 * 箱子 https://www.curseforge.com/minecraft/mc-mods/reinforced-chests

@@ -64,10 +64,6 @@ hash = "b1020e8548bb2dacd81d980456c909e3c35c35dc9c0eba9f922ca06f6f07d018"
 preserve = true
 
 [[files]]
-file = "config/waystones.toml"
-hash = "4a261b1e6ba3ddb0f1b6b5f8dd1de4deb225f2ff6d0563236be1dcae264c28fc"
-
-[[files]]
 file = "creeperaiupdated.json"
 hash = "21ab41f7861da59a3fb9c2663b20e87de51c3c0b5843ef0eb02c02e0ee334fc7"
 
@@ -169,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-waystones.toml"
+hash = "97e429a76c84a6edc11c5120e86f9f10872a37555477b494676677753da3fa78"
 metafile = true
 
 [[files]]
@@ -374,11 +375,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets-fabric.toml"
 hash = "4bff6737922a7e793a56050a9ec935f656248096d59fadf75bbbaa02f0eb6f7c"
-metafile = true
-
-[[files]]
-file = "mods/waystones-fabric.toml"
-hash = "62077bbd68064ad0a7a47b0babdf8ddb9ee0558432f4df0e195db4d22c747ce1"
 metafile = true
 
 [[files]]
