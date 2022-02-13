@@ -302,6 +302,11 @@ hash = "33f3bac96d670a36f3cf8fa0edcb37a051684bc1c584356cb6fa5046599f480e"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.toml"
+hash = "2935d08419d05bf6d723225066a5c8e28c9cf3beb08d4f6a3902520a965c5f95"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "afc78e26f2386e77df2de6bec037c14eb74f063e3551f2ab71f10ff80bc5e986"
 metafile = true
@@ -349,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.toml"
+hash = "47971d0631c1e257550e87ce63ab58249f4432ebc3d9b59eaa4e9b430076af2f"
 metafile = true
 
 [[files]]
