@@ -340,8 +340,3 @@ metafile = true
 [[files]]
 file = "resourcepacks/Better-Leaves-6.1-1.13+.zip"
 hash = "67e32a94a3ec388cb876c7e21c5b3de4c5df255193150611466b61516d6b8fb9"
-
-[[files]]
-file = "servers.dat"
-hash = "64b35ba56f169834b332e6e1b0a76d87ecf56ead86f74641ddd47265884e86eb"
-preserve = true
