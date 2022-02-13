@@ -353,6 +353,11 @@ hash = "4bff6737922a7e793a56050a9ec935f656248096d59fadf75bbbaa02f0eb6f7c"
 metafile = true
 
 [[files]]
+file = "mods/waystones-fabric.toml"
+hash = "62077bbd68064ad0a7a47b0babdf8ddb9ee0558432f4df0e195db4d22c747ce1"
+metafile = true
+
+[[files]]
 file = "mods/wthit.toml"
 hash = "53851cb959ada913339da2f2f6ed8e4630c2777d316f5e3d92b63a584405d783"
 metafile = true
