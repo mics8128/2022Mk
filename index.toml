@@ -40,6 +40,11 @@ hash = "65fc7fe6db7b79bc2153d7cfcc83772e60b47daf375d9ab51c8932dfc1270c41"
 preserve = true
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "eaad628d1b97f965187580f9cc252bbfed6e20eded97ba3774791edb1f57472a"
+preserve = true
+
+[[files]]
 file = "config/rpmtw_update_mod.toml"
 hash = "3f5470f33c9ef8178903fbc6200648710341faf3fe76fa188c5bc9ee1d3432a8"
 preserve = true
