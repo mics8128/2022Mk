@@ -64,6 +64,10 @@ hash = "b1020e8548bb2dacd81d980456c909e3c35c35dc9c0eba9f922ca06f6f07d018"
 preserve = true
 
 [[files]]
+file = "config/waystones/config.json"
+hash = "9e2845da8fc3fcba6ca02ade34305d845e90e2fd086ecc7576053881e1ca31fb"
+
+[[files]]
 file = "creeperaiupdated.json"
 hash = "21ab41f7861da59a3fb9c2663b20e87de51c3c0b5843ef0eb02c02e0ee334fc7"
 
