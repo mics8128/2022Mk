@@ -93,6 +93,11 @@ hash = "608b262bb8e6bcbec23c81807c24d8d87bbd33242a6cd79ab87d701bd2fa325e"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.toml"
+hash = "bf7cabf20ae16bee064ae94ce71630f0ef1c07757902046affad8e5e430bf29c"
+metafile = true
+
+[[files]]
 file = "mods/bobby.toml"
 hash = "de9f0a941156d95091b39b434fe31fe76cb612eeb0592618d325835d501a4c02"
 metafile = true
@@ -135,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-view.toml"
 hash = "3e714fc726766a58b1f1b3cbd8aa0e1dd66a8f5a6a63833fe0849a2d02dcda8a"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trinket-fabric.toml"
+hash = "5fd55ae664016de4dfbc907a4e2a5a7c941efb6996c4831604505655c4ae4931"
 metafile = true
 
 [[files]]
@@ -288,6 +298,21 @@ hash = "afc78e26f2386e77df2de6bec037c14eb74f063e3551f2ab71f10ff80bc5e986"
 metafile = true
 
 [[files]]
+file = "mods/reinforced-barrels.toml"
+hash = "bf77f67ace2fc8e7929dd4ffb3f494a5e5ac21690db9a92c798c577fd56fdb8c"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-chests.toml"
+hash = "809d4e1db7eb029c88d088729bb26456676d11a8238a855d099c1d9f8f520e8c"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-shulker-boxes.toml"
+hash = "c9173065cd2c11e968bc3c6046f5fe1a556c62613b53a6a79f28dc5f8487b6e9"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
 metafile = true
@@ -325,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.toml"
 hash = "f72cbfcc9dd7079ae697512338158d3d98efd4b7ef2dfbcd9ee5f829d3efedb6"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "4bff6737922a7e793a56050a9ec935f656248096d59fadf75bbbaa02f0eb6f7c"
 metafile = true
 
 [[files]]

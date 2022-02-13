@@ -1,0 +1,13 @@
+name = "Reinforced Chests"
+filename = "reinforced-chests-2.0.0-beta.2+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3639/984/reinforced-chests-2.0.0-beta.2+1.18.jar"
+hash-format = "murmur2"
+hash = "2706060039"
+
+[update]
+[update.curseforge]
+file-id = 3639984
+project-id = 529873

@@ -1,0 +1,13 @@
+name = "Reinforced Barrels"
+filename = "reinforced-barrels-2.0.0-beta.1+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3626/870/reinforced-barrels-2.0.0-beta.1+1.18.jar"
+hash-format = "murmur2"
+hash = "733952644"
+
+[update]
+[update.curseforge]
+file-id = 3626870
+project-id = 529875
