@@ -16,7 +16,6 @@
 * 鞘翅 & 背 & 腰帶欄位 (背 & 腰切換熱鍵為 G, H)
 
 # 更新快速的模組們
-* 小方塊 建築用 https://www.curseforge.com/minecraft/mc-mods/bits-and-chisels
 * 鞘翅欄位 https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric
 * trinket https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric
 * 箱子 https://www.curseforge.com/minecraft/mc-mods/reinforced-chests
