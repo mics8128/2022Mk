@@ -35,6 +35,10 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 preserve = true
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "e5fefb70572e04080ca86dca863033c53aa0cb44a2666968bbc66dcb78834f3d"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "65fc7fe6db7b79bc2153d7cfcc83772e60b47daf375d9ab51c8932dfc1270c41"
 preserve = true
