@@ -76,6 +76,11 @@ file = "creeperaiupdated.json"
 hash = "21ab41f7861da59a3fb9c2663b20e87de51c3c0b5843ef0eb02c02e0ee334fc7"
 
 [[files]]
+file = "interactic.json5"
+hash = "9bb1f0c24f00992bceefc619a70e6b2f9fed9a89950537705b0da9b765b4ad40"
+preserve = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "ba1f962e329972d937452b1db563b5f1a8871ab5931604769ea4a8883a559a5a"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-view.toml"
 hash = "3e714fc726766a58b1f1b3cbd8aa0e1dd66a8f5a6a63833fe0849a2d02dcda8a"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation-fabric.toml"
+hash = "d37aee96a797c021a2d8d4dabffd50d9c7b02e78e188a58d72025ecf249edfab"
 metafile = true
 
 [[files]]
