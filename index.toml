@@ -216,6 +216,11 @@ hash = "cef05705a376d2810aead41099c48f4be37cf8e13801f3323e2811e63b139268"
 metafile = true
 
 [[files]]
+file = "mods/interactic.toml"
+hash = "86ffcd3863836c1abc45485e383250f332b1f8a73ff3fb8d1c46ff703d601c82"
+metafile = true
+
+[[files]]
 file = "mods/inv-view.toml"
 hash = "465889eb9f9152c2eef486f61ae51302cd9a2a877cbe30599ceb76689657b163"
 metafile = true
