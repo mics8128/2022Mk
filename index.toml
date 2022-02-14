@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "1227ceed46f6d26c1557728b398af372bcc9fa9d4d7baff9ce89fbd2b5507c04"
+hash = "25d36d405740ce83e9348d6c86acdd38b2248d5ec0303d6991de0ac82ec1925e"
 metafile = true
 
 [[files]]
@@ -392,12 +392,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c086164287f9a633ae0e8152967e954327db0afdb4dcf4bb7ea166fa390c21bd"
+hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "96c8320ebe996a9ea817165c47049d4c2efe31006b715a17342323c95e51eaec"
+hash = "201c61da574c7e7443b44875cdabd456735a9d21119755cda12cd6d894ed9d34"
 metafile = true
 
 [[files]]
