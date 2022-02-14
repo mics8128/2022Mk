@@ -1,24 +1,4 @@
 {
-    "wraith.waystones.screen.WaystoneScreen": {
-        "buttonHints": {
-            "MOVE_TO_CONTAINER": {
-            },
-            "MOVE_TO_PLAYER": {
-            },
-            "SORT": {
-            },
-            "SORT_COLUMNS": {
-            },
-            "SORT_ROWS": {
-            },
-            "CONTINUOUS_CRAFTING": {
-            },
-            "PROFILE_SELECTOR": {
-            },
-            "SHOW_EDITOR": {
-            }
-        }
-    },
     "wraith.waystones.screen.WaystoneScreenHandler": {
         "ignore": true,
         "buttonHints": {

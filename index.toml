@@ -30,13 +30,8 @@ file = "config/fallingtree.json"
 hash = "a892b8be7844df0b31ca9d66122ab3894ecfa84799386ba94123d9e6d784e987"
 
 [[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-preserve = true
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "e5fefb70572e04080ca86dca863033c53aa0cb44a2666968bbc66dcb78834f3d"
+file = "config/inventoryprofilesnext/integrationHints/waystones.json"
+hash = "8abf55a94e85479c64f8c7b54d86fd24782af173533099c74e4a364f296adda9"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
