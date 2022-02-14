@@ -311,6 +311,11 @@ hash = "33f3bac96d670a36f3cf8fa0edcb37a051684bc1c584356cb6fa5046599f480e"
 metafile = true
 
 [[files]]
+file = "mods/quartz-elevator.toml"
+hash = "60d2eb97247e0d89eb75600157a8e81e43765217a21676a86a70646ec1ae68ec"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "afc78e26f2386e77df2de6bec037c14eb74f063e3551f2ab71f10ff80bc5e986"
 metafile = true

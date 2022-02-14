@@ -22,3 +22,4 @@
 * 箱子 https://www.curseforge.com/minecraft/mc-mods/reinforced-chests
 * 界符盒 https://www.curseforge.com/minecraft/mc-mods/reinforced-shulker-boxes
 * 桶 https://www.curseforge.com/minecraft/mc-mods/reinforced-barrels
+* 電梯 https://www.curseforge.com/minecraft/mc-mods/quartz-elevator
