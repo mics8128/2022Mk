@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
+hash = "0f0473f7f6b422caf115fc5a8168f607a68c233612d216a65d049461e45369e8"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation-fabric.toml"
-hash = "d37aee96a797c021a2d8d4dabffd50d9c7b02e78e188a58d72025ecf249edfab"
+hash = "c5099d318d2f91f4a5661ed32f50752a156d49f9ef970f00d699dc7ea1412644"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "a199bfe7146aac6cce97b8f1ba85b47574329722c8b3a7ff2b48a540905ddf1f"
+hash = "8d7622f19e93a5aa921e795c7818962912b548e3bac40d625298f5f45532ab22"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
+hash = "75e0eff39b05aedba75bcfe40f8555446275861226d07ffc462692901886c979"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "b6afdd01aff82e263d81b4f3a629a011baa6607b87582088bbdb16ca9cb2149c"
+hash = "c4ca4f545d526858b28be91771f7ee2481353aa8bf58b659a48077856d9e1c1c"
 metafile = true
 
 [[files]]
