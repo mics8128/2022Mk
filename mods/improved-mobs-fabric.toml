@@ -1,0 +1,13 @@
+name = "Improved Mobs (Fabric)"
+filename = "improvedmobs-1.18.1-1.8.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3612/467/improvedmobs-1.18.1-1.8.1-fabric.jar"
+hash-format = "sha1"
+hash = "997fe1ee9a0fee61c8acd9a502c86406d0ccc4ca"
+
+[update]
+[update.curseforge]
+file-id = 3612467
+project-id = 552968

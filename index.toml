@@ -221,6 +221,11 @@ hash = "3e3dada9877ac8ab9393f76cc65f3a4ea11e0cbcb5ac6151ccf83f2f0dc86030"
 metafile = true
 
 [[files]]
+file = "mods/improved-mobs-fabric.toml"
+hash = "0ce6afde952d2c070ad4d36de83eae3311aa6bb7958ad16b958e55ed307e8099"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "cef05705a376d2810aead41099c48f4be37cf8e13801f3323e2811e63b139268"
 metafile = true
@@ -378,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
+metafile = true
+
+[[files]]
+file = "mods/tenshilib-fabric.toml"
+hash = "069d028e3333a19bd110fb3116674715bf4bc543713710c254377209ebb403a7"
 metafile = true
 
 [[files]]
