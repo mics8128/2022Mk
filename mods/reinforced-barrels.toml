@@ -1,13 +1,13 @@
 name = "Reinforced Barrels"
-filename = "reinforced-barrels-2.0.0-beta.1+1.18.jar"
+filename = "reinforced-barrels-2.0.0+1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3626/870/reinforced-barrels-2.0.0-beta.1+1.18.jar"
-hash-format = "murmur2"
-hash = "733952644"
+url = "https://edge.forgecdn.net/files/3687/649/reinforced-barrels-2.0.0+1.18.jar"
+hash-format = "sha1"
+hash = "c523d372fe76d4c76ef111987ca3cb2ba69e35fe"
 
 [update]
 [update.curseforge]
-file-id = 3626870
+file-id = 3687649
 project-id = 529875
