@@ -216,6 +216,16 @@ hash = "5f0413efde37e20931640269d73ed99ddf47d2f6cbd42f5b2685aa238d35e109"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.toml"
+hash = "7c5d5df6eaf9c2242a9d37f4809008f563a112006bdc4f1f9d9d2186ee0f5a4d"
+metafile = true
+
+[[files]]
+file = "mods/happiness-is-a-warm-gun.toml"
+hash = "5df1ccf3e93b1e424e37f287ca64af11d4b821c057c95ef9d62e7f0c846c50c8"
+metafile = true
+
+[[files]]
 file = "mods/imblockerfabric.toml"
 hash = "43e2cf9491f764ae2c67c37ef4e6b27f3c7aa63fc816de394ed5408a9760cc8f"
 metafile = true
