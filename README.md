@@ -23,4 +23,3 @@
 * 界符盒 https://www.curseforge.com/minecraft/mc-mods/reinforced-shulker-boxes
 * 桶 https://www.curseforge.com/minecraft/mc-mods/reinforced-barrels
 * 電梯 https://www.curseforge.com/minecraft/mc-mods/quartz-elevator
-* 槍枝 https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod
