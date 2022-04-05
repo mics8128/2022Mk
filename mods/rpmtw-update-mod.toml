@@ -1,13 +1,13 @@
 name = "RPMTW Update Mod"
-filename = "RPMTW-Update-Mod-Fabric-1.18.1-1.3.1.jar"
+filename = "RPMTW-Update-Mod-Fabric-1.18.1-1.3.0.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3672/141/RPMTW-Update-Mod-Fabric-1.18.1-1.3.1.jar"
-hash-format = "sha1"
-hash = "e2e19d6cd5a453b6417d85208b12742d4000fa39"
+url = "https://edge.forgecdn.net/files/3579/763/RPMTW-Update-Mod-Fabric-1.18.1-1.3.0.jar"
+hash-format = "murmur2"
+hash = "3290640199"
 
 [update]
 [update.curseforge]
-file-id = 3672141
+file-id = 3579763
 project-id = 461500

@@ -1,13 +1,13 @@
 name = "TenshiLib (Fabric)"
-filename = "tenshilib-1.18.2-1.6.5-fabric.jar"
+filename = "tenshilib-1.18.1-1.4.0b-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3707/229/tenshilib-1.18.2-1.6.5-fabric.jar"
+url = "https://edge.forgecdn.net/files/3609/620/tenshilib-1.18.1-1.4.0b-fabric.jar"
 hash-format = "sha1"
-hash = "e03f1d8bec1ce3f6c463f7e67856876addedc9f5"
+hash = "9ad85e2a1e6171db2d39740dfef670565e574c63"
 
 [update]
 [update.curseforge]
-file-id = 3707229
+file-id = 3609620
 project-id = 552662
